@@ -1,0 +1,18 @@
+AENEID TRAIL — How to play from this folder
+===========================================
+
+EASIEST WAY (recommended):
+  1. Double-click  AeneidTrail.html
+  2. It opens in your browser and the full game runs.
+     No server needed. Works offline.
+
+ALTERNATIVE:
+  - Open index.html  (it will redirect to the single-file game)
+
+MODULAR VERSION (for developers / editing):
+  - Go into the  modular/  folder
+  - Open  aeneid_game.html
+  - Requires the css/, data/, and js/ subfolders to stay together
+
+The single-file version (AeneidTrail.html) already contains
+everything: full story, systems, random events, and endings.
